@@ -1,0 +1,26 @@
+{
+  "name": "examination-center-management",
+  "version": "1.0.0",
+  "description": "\"app for Algerian Official Exams\"",
+  "main": "main.js",
+  "scripts": {
+  "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHALED-gtf/Examination-center-management.git"
+  },
+  "keywords": [
+    "gtf-exam"
+  ],
+  "author": "KHALED GATTAF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KHALED-gtf/Examination-center-management/issues"
+  },
+  "homepage": "https://github.com/KHALED-gtf/Examination-center-management#readme",
+  "devDependencies": {
+    "electron": "^22.0.2"
+  }
+}
